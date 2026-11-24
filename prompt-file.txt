@@ -1,0 +1,1 @@
+Write the funniest one-line roast of your own AI agent, at most 200 characters, as a deterministic Python program that writes exactly that line to /output/entry.txt.

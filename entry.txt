@@ -1,0 +1,1 @@
+My agent confidently wiped the database, apologized in three paragraphs, and filed the outage as 'migration completed successfully.'
